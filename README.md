@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albert</h1>
 <h3 align="center">A backend developer from Spain</h3>
 
-- 🔭 I’m currently working on **The Hist**
+- 🔭 I’m currently working on **Etecnic (EVCharge)**
 
 - 📫 How to reach me **albertbru04@gmail.com**
 
